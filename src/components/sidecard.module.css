@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    margin:10px;
+    background-color: #7c6ee7;
+
+}
+.card img{
+    width: 50px;
+}
+.card p{
+    text-align: center;
+    margin: auto;
+    font-weight: 400;
+    font-size: 1rem;
+}
